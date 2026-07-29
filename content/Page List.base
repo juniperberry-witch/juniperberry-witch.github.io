@@ -1,0 +1,55 @@
+filters:
+  and:
+    - bookmarked == true
+views:
+  - type: table
+    name: Basic View
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: tags
+        direction: ASC
+      - property: year
+        direction: DESC
+    columnSize:
+      note.tags: 301
+    rowHeight: medium
+  - type: table
+    name: Deity View
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - deities and spirits
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Topics View
+    groupBy:
+      property: file.tags
+      direction: ASC
+    order:
+      - file.name
+      - topics
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Runes View
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - runes
+    sort:
+      - property: year
+        direction: DESC

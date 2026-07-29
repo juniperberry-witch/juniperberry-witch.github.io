@@ -1,0 +1,46 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "bases-page": {
+      "source": "github:quartz-community/bases-page",
+      "resolved": "https://github.com/quartz-community/bases-page.git",
+      "commit": "2858f17b02ec49d8bf0fe10e983891e424aaa040",
+      "installedAt": "2026-07-23T23:05:19.534Z"
+    },
+    "content-index": {
+      "source": "github:quartz-community/content-index",
+      "resolved": "https://github.com/quartz-community/content-index.git",
+      "commit": "1342d1eacfdabbcefa2c6a26f8346945a9d9860f",
+      "installedAt": "2026-07-25T14:39:48.018Z"
+    },
+    "explorer": {
+      "source": "github:quartz-community/explorer",
+      "resolved": "https://github.com/quartz-community/explorer.git",
+      "commit": "06ea3d8e206f0edaab08556191adc75b2403e832",
+      "installedAt": "2026-07-24T00:15:07.445Z"
+    },
+    "note-properties": {
+      "source": "github:quartz-community/note-properties",
+      "resolved": "https://github.com/quartz-community/note-properties.git",
+      "commit": "e68145b9f11b31d3168ed2755bd74f36a67dbed7",
+      "installedAt": "2026-07-23T23:16:15.063Z"
+    },
+    "quartz-themes": {
+      "source": {
+        "name": "quartz-themes",
+        "repo": "github:saberzero1/quartz-themes",
+        "subdir": "plugin"
+      },
+      "resolved": "https://github.com/saberzero1/quartz-themes.git",
+      "commit": "945135e8b70576753d0591e1713fe56553100b3d",
+      "subdir": "plugin",
+      "installedAt": "2026-07-23T22:34:12.763Z"
+    },
+    "search": {
+      "source": "github:quartz-community/search",
+      "resolved": "https://github.com/quartz-community/search.git",
+      "commit": "1d9ba593230b997ee4cf0cc3c1ed4a30b571cee2",
+      "installedAt": "2026-07-25T14:33:51.927Z"
+    }
+  }
+}

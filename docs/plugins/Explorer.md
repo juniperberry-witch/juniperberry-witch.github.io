@@ -6,7 +6,7 @@ tags:
 image:
 repository: "[quartz-community/explorer](https://github.com/quartz-community/explorer)"
 enabled: true
-required: false
+required: true
 ---
 
 File tree explorer sidebar.
