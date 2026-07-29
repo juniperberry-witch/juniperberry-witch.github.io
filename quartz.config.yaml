@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: juniperberry-witch.github.io/quartz
+  baseUrl: juniperberry-witch.github.io/
   ignorePatterns:
     - private
     - templates
