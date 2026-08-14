@@ -8,7 +8,7 @@ deities and spirits:
   - Freya
 runes:
   - Ingwaz
-  - Jera
+  - Yaahr (Jera)
   - Wunjo
   - Laguz
 topics:

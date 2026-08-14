@@ -6,7 +6,7 @@ deities and spirits:
   - Holler
   - Ewich Yeeger
 runes:
-  - Hagalaz
+  - Haagel (Hagalaz)
   - Kenaz
   - Jera
   - Wunjo

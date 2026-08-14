@@ -8,7 +8,7 @@ deities and spirits:
 runes:
   - Raidho
   - Ingwas
-  - Jera
+  - Yaahr (Jera)
   - Kenaz
   - Mannaz
 topics:

@@ -3,12 +3,12 @@ tags:
   - Event
 deities and spirits:
   - Holle
-  - Ancestors
+  - Ancestors / The Dead
   - Butzemann (Scarecrow)
   - Wudan (Odin)
 runes:
   - Raidho
-  - Jera
+  - Yaahr (Jera)
   - Kenaz
   - Ingwas
   - Mannaz

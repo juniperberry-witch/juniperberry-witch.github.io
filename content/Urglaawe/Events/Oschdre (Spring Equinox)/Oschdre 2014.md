@@ -5,7 +5,7 @@ deities and spirits:
   - Oschdra
 runes:
   - Sowilo
-  - Jera
+  - Yaahr (Jera)
   - Dagaz
   - Ansuz
 values:

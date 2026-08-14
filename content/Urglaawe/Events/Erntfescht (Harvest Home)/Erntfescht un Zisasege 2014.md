@@ -8,7 +8,7 @@ deities and spirits:
   - Zisa
 runes:
   - Thurisaz
-  - Jera
+  - Yaahr (Jera)
   - Naudhiz
   - Wunjo
   - Tiwaz

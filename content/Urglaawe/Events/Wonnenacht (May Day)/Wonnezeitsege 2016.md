@@ -3,42 +3,44 @@ tags:
   - Event
 deities and spirits:
   - Holle
-  - Holler
-  - Ewich Yeeger
+  - Ancestors / The Dead
+  - Sunna
+  - Berchta
+  - Gedreier Eckhart
 runes:
   - Haagel (Hagalaz)
   - Kenaz
-  - Jera
+  - Yaahr (Jera)
   - Wunjo
 values:
   - Mitleid (Compassion)
   - Verwandschaft (Kinship)
 topics:
-  - May Day
-  - Spring Cleaning
-  - Braucherei
-  - Holzhaane Moon (Woodcock Moon)
-  - Elbedritsch Moon (Snipe Moon)
-  - Haas Moon (Rabbit Moon)
+  - Furious Host (Wild Hunt)
+  - Holle’s Mill
   - Life, Death, and Rebirth
+  - Frost Giants
+  - Spring Cleaning
+  - Holzent Moon (Wood Duck Moon)
 month: Wonnet (May)
-year: 2015
+year: 2016
 bookmarked: true
 description: Along with Yuul, this is the highest holiday on the Urglaawe calendar. The night of April 30 into May 1 is observance of the return of Holle from the Furious Host (Wild Hunt). It is frequently known as Walpurgisnacht, but, since Walburga was a Christian missionary, the terms Wonnenacht or Hexenacht are more appropriate.
 ---
 ## Deities and Spirits
 - Holle
-- Holler 
-- Ewich Yeeger
+- Ancestors / The Dead
+- Sunna
+- Berchta
+- Gedreier Eckhart
 ## Topics
-- May Day
-- Spring Cleaning
-- Braucherei
-- Holzhaane Moon (Woodcock Moon)
-- Elbedritsch Moon (Snipe Moon)
-- Haas Moon (Rabbit Moon)
+- Furious Host (Wild Hunt)
+- Holle's Mill
 - Life, Death, and Rebirth
+- Frost Giants
+- Spring Cleaning
+- Holzent Moon (Wood Duck Moon)
 ## Description
 Along with Yuul, this is the highest holiday on the Urglaawe calendar. The night of April 30 into May 1 is observance of the return of Holle from the Furious Host (Wild Hunt). It is frequently known as Walpurgisnacht, but, since Walburga was a Christian missionary, the terms Wonnenacht or Hexenacht are more appropriate.
 # File
-- [[Wonnenacht 2015.pdf]]
+- [[Wonnezeitsege 2016.pdf]]

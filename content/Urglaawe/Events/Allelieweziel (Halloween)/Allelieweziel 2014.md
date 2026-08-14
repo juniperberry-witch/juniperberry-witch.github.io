@@ -7,7 +7,7 @@ deities and spirits:
   - Wudan (Odin)
 runes:
   - Raidho
-  - Jera
+  - Yaahr (Jera)
   - Kenaz
   - Ingwas
   - Mannaz

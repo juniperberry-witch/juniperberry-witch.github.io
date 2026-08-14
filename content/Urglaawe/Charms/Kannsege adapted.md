@@ -5,7 +5,7 @@ deities and spirits:
   - Butzemann (Scarecrow)
 runes:
   - Ingwaz
-  - Jera
+  - Yaahr (Jera)
   - Othala
   - Fehu
   - Ansuz
