@@ -11,10 +11,6 @@ views:
       - file.name
       - description
     sort:
-      - property: file.name
-        direction: ASC
-      - property: tags
-        direction: ASC
       - property: year
         direction: DESC
     columnSize:
@@ -23,7 +19,7 @@ views:
   - type: table
     name: Deity View
     groupBy:
-      property: tags
+      property: type
       direction: ASC
     order:
       - file.name
@@ -34,7 +30,7 @@ views:
   - type: table
     name: Topics View
     groupBy:
-      property: file.tags
+      property: type
       direction: ASC
     order:
       - file.name
