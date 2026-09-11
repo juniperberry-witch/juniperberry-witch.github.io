@@ -9,6 +9,7 @@ topics:
   - Colors
 bookmarked: true
 description: Spiritually speaking, Urglaawe mysticism, with its roots in Braucherei, should be employed to ensure that any fractured portions (especially the portion that is reborn) of the deceased's soul are in the position of being able to progress. This includes Der Schmaus (the Feast), Es Leichtfeier (Memorial Pyre), Die Reiniching (Cleansing), Die Gedechniszettel (Memorial Tickets), and follow up.
+type: Funeral
 ---
 ## Deities and Spirits
 - Holle

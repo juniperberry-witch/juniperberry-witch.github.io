@@ -8,6 +8,7 @@ month:
 year:
 bookmarked:
 description:
+type:
 ---
 ## Deities and Spirits
 - 

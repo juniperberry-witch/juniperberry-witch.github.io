@@ -5,9 +5,9 @@ deities and spirits:
   - Holler
   - Ewich Yeeger
 runes:
-  - Thurisaz
+  - Dorn (Thurisaz)
   - Eihwaz
-  - Laguz
+  - Loch (Laguz)
   - Ehwaz
 topics:
   - Yodeling 
@@ -18,6 +18,7 @@ month: Newweling (November)
 year: 2014
 bookmarked: true
 description: Winter is natural and necessary for this region. Many seeds need extended time in frozen temperatures, etc. Thus, the best way to frame this entire effort is to focus on winter's grasp over us as individuals. Each of us can assert our authority over ourselves not to become sullen from the heavy snows or the cabin fever. Thus, we are railing against our own reactions to winter, too.
+type: Ewicher Yeeger
 ---
 ## Deities and Spirits
 - Holler 

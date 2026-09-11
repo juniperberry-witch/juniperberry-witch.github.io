@@ -7,9 +7,9 @@ deities and spirits:
   - Nacht (Night)
 runes:
   - Sowilo
-  - Jera
-  - Dagaz
-  - Naudhiz
+  - Yaahr (Jera)
+  - Daag (Dagaz)
+  - Not (Naudhiz)
 values:
   - Ausdauer (Perseverance)
 topics:
@@ -21,6 +21,7 @@ month: Lenzing (March)
 year: 2016
 bookmarked: true
 description: Oschdre is the propagation of life on a larger scale and the childhood phase of the Life cycle.
+type: Oschdre (Spring Equinox)
 ---
 ## Deities and Spirits
 - Oschdra

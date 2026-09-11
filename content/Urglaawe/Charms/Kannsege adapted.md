@@ -9,14 +9,15 @@ runes:
   - Othala
   - Fehu
   - Ansuz
-  - Berkano
-  - Laguz
+  - Baerke (Berkano)
+  - Loch (Laguz)
 topics:
   - Der Kannsege (Ceremony of the Corn)
   - Butzemannsege
   - Oaths
 bookmarked: true
 description: Der Kannsege (Ceremony of the Corn) and Butzemannsege adapted for use outside of Braucherei guilds.
+type: Charms
 ---
 ## Deities and Spirits
 - Butzemann (Scarecrow)

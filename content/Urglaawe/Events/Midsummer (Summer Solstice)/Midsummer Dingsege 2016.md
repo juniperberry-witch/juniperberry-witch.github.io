@@ -9,10 +9,10 @@ deities and spirits:
   - Vorsetzer (Forseti)
   - Ancestors / The Dead
 runes:
-  - Tiwaz
+  - Ziu (Tiwaz)
   - Sowilo
   - Fehu
-  - Wunjo
+  - Winsch (Wunjo)
 values:
   - Uffwaarting (Hospitality)
 topics:
@@ -26,6 +26,7 @@ month: Broochet (June)
 year: 2016
 bookmarked: true
 description: Although we often try to frame Midsummer as representing the victory of light over darkness, the reality is that both light and darkness play important roles in our lives and in the world and universe around us. Being attuned to the cycles of life and the rhythms that guide the streams of life is an important facet of Urglaawe philosophy. In the dead of winter, we are typically isolated and introspective. Deitsch tradition tells us that at those times, we are to assess ourselves, our deeds, our desires, and to find ways to improve our lives. In addition to the celebration of Midsummer, this event honors the victims of the Pulse Massacre.
+type: Midsummer (Summer Solstice)
 ---
 ## Deities and Spirits
 - Sunna

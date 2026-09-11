@@ -7,9 +7,9 @@ deities and spirits:
   - Ewich Yeeger
 runes:
   - Haagel (Hagalaz)
-  - Kenaz
-  - Jera
-  - Wunjo
+  - Fackel (Kenaz)
+  - Yaahr (Jera)
+  - Winsch (Wunjo)
 values:
   - Mitleid (Compassion)
   - Verwandschaft (Kinship)
@@ -24,6 +24,7 @@ month: Oschdret (April)
 year: 2013
 bookmarked: true
 description: Along with Yuul, this is the highest holiday on the Urglaawe calendar. The night of April 30 into May 1 is observance of the return of Holle from the Furious Host (Wild Hunt).
+type: Wonnenacht (May Day)
 ---
 ## Deities and Spirits
 - Holle

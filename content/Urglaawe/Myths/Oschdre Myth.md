@@ -9,6 +9,7 @@ topics:
   - Colors
 bookmarked: true
 description: A new myth or a reconstruction or a retelling of a Deitch regional folk tale of how colors came to be. This mythology is significant to modern Urglaawe perspectives.
+type: Myths
 ---
 ## Deities and Spirits
 - Oschdra 

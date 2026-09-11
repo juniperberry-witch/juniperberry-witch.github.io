@@ -6,7 +6,7 @@ deities and spirits:
 runes:
   - Sowilo
   - Yaahr (Jera)
-  - Dagaz
+  - Daag (Dagaz)
   - Ansuz
 values:
   - Verwalting (Stewardship)
@@ -18,6 +18,7 @@ month: Lenzing (March)
 year: 2014
 bookmarked: true
 description: Oschdre is the propagation of life on a larger scale and the childhood phase of the Life cycle.
+type: Oschdre (Spring Equinox)
 ---
 ## Deities and Spirits
 - Oschdra

@@ -5,7 +5,7 @@ views:
   - type: table
     name: Basic View
     groupBy:
-      property: tags
+      property: type
       direction: ASC
     order:
       - file.name
@@ -39,17 +39,6 @@ views:
     order:
       - file.name
       - topics
-    sort:
-      - property: year
-        direction: DESC
-  - type: table
-    name: Runes View
-    groupBy:
-      property: tags
-      direction: ASC
-    order:
-      - file.name
-      - runes
     sort:
       - property: year
         direction: DESC

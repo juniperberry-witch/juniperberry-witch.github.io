@@ -6,10 +6,10 @@ deities and spirits:
   - Waahra (Var)
   - Weisskeppichi Fraa (White-Haired Woman)
 runes:
-  - Laguz
-  - Kenaz
-  - Dagaz
-  - Tiwaz
+  - Loch (Laguz)
+  - Fackel (Kenaz)
+  - Daag (Dagaz)
+  - Ziu (Tiwaz)
 topics:
   - Braucherei
   - Mental Health
@@ -19,6 +19,7 @@ month: Yuuling (December)
 year: 2018
 bookmarked: true
 description: The Berchtaslaaf, or the Progression of Berchta is a feast that includes gruel and fish, which is Berchta's prescribed meal. Urglaawer typically make the fare to consist of herring and oatmeal or dumpling and herring meal.
+type: Gmeeschaftsege
 ---
 ## Deities and Spirits
 - Berchta
