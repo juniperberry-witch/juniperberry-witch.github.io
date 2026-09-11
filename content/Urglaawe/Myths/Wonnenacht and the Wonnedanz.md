@@ -12,6 +12,11 @@ runes:
   - Loch (Laguz)
 values:
 topics:
+  - Holle’s Mill
+  - Furious Host (Wild Hunt)
+  - Life, Death, and Rebirth
+  - Soul Rebirth
+  - Frost Giants
 month: Oschdret (April)
 year: 2016
 bookmarked: true
@@ -27,6 +32,7 @@ type: Myths
 - Furious Host (Wild Hunt)
 - Holle's Mill
 - Life, Death, and Rebirth
+- Soul Rebirth
 - Frost Giants
 ## Description
 The spirits lined up and entered the Mill, where they would be split apart, never to return in their present form. Holle returned to the joyous Mannheem, taking Her seat upon the Hexenkopf pillar. Thus, the Bright Half of the Year began and order was restored to Mannheem.
