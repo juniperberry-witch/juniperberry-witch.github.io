@@ -36,5 +36,16 @@ views:
       - file.name
       - topics
     sort:
+      - property: topics
+        direction: ASC
       - property: year
         direction: DESC
+  - type: table
+    name: Articles
+    filters:
+      and:
+        - file.tags.contains("Article")
+    order:
+      - file.name
+      - chapters
+      - type

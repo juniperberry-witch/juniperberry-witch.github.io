@@ -242,6 +242,7 @@ plugins:
         - tags
         - month
         - year
+        - chapters
       excludedProperties:
         - title
         - modified

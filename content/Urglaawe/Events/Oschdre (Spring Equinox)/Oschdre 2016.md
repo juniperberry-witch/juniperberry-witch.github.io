@@ -11,7 +11,7 @@ runes:
   - Daag (Dagaz)
   - Not (Naudhiz)
 values:
-  - Ausdauer (Perseverance)
+  - Verwalting (Stewardship)
 topics:
   - Muunraad
   - Holzhaane Moon (Woodcock Moon)

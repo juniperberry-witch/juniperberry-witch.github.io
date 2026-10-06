@@ -17,9 +17,9 @@ topics:
   - May Day
   - Spring Cleaning
   - Braucherei
-  - Holzhaane Moon (Woodcock Moon)
-  - Elbedritsch Moon (Snipe Moon)
-  - Haas Moon (Rabbit Moon)
+  - Holzhaanemuun (Woodcock Moon)
+  - Elbedritschmuun (Snipe Moon)
+  - Haasmuun (Rabbit Moon)
   - Life, Death, and Rebirth
 month: Wonnet (May)
 year: 2015
