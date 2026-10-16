@@ -267,7 +267,6 @@ plugins:
   - source: "@quartz-themes/core"
     options:
       theme: "hackthebox"
-      mode: "dark"
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
