@@ -33,8 +33,8 @@ topics:
 month: Aernet (August)
 year: 2007
 bookmarked: true
-description: Three
-type: "Three Sisters Center's Hollerbier Haven: Volume 1 Issue 2. \"The problems facing humanity are great in our time, in order to see a tomorrow that is as beautiful as today we must all pull our share. The sacred promise is to all of earth: its plants, its animals, and its people.\""
+description: "Three Sisters Center's Hollerbier Haven: Volume 1 Issue 2. \"The problems facing humanity are great in our time, in order to see a tomorrow that is as beautiful as today we must all pull our share. The sacred promise is to all of earth: its plants, its animals, and its people.\""
+type: Three Sisters Center's Hollerbier Haven
 chapters:
   - Reaping the Harvest
   - The Doctrine of Signatures
