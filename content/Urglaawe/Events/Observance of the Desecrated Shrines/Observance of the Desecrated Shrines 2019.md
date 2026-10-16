@@ -35,4 +35,5 @@ type: Observance of the Desecrated Shrines
 ## Description
 Today we gather to remember and to honor the many gods and goddesses whose sacred shrines, temples, and images were desecrated or destroyed through acts of zealotry.
 # File
-- [[Observance of the Desecrated Shrines 2019.pdf]]
+![[Observance of the Desecrated Shrines 2019.pdf]]
+Link: [[Observance of the Desecrated Shrines 2019.pdf]]

@@ -20,4 +20,5 @@ type: Funeral
 ## Description
 We wish to celebrate the life of the deceased and to stand with the family in this time of grief. This document is the basis for funeral instructions.
 # File
-- [[Urglaawe Leicht General Funeral.pdf]]
+![[Urglaawe Leicht General Funeral.pdf]]
+Link: [[Urglaawe Leicht General Funeral.pdf]]

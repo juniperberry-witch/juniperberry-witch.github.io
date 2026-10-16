@@ -21,4 +21,5 @@ type: Charms
 ## Description
 This is an Urglaawe protection charm. It is a new construct taken from notes regarding various traditional Braucherei and Hexerei practices relating to the protection of a horse.
 # File
-- [[Horse Protection Charm.pdf]]
+![[Horse Protection Charm.pdf]]
+Link: [[Horse Protection Charm.pdf]]

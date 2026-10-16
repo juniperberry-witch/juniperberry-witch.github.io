@@ -36,4 +36,5 @@ type: Yuul (Yule)
 ## Description
 Yule is the time that spans from the winter solstice until New Year’s Day. Traditionally, it is cold, possibly snowy, and dark. This is rock bottom; starting with Yule, the amount of sunlight begins to grow daily, and we are reminded that the cycle of the year, as well as the cycle of life, continues unabated, even when things look to be their worst.
 # File
-- [[Yuulsege 2017.pdf]]
+![[Yuulsege 2017.pdf]]
+Link: [[Yuulsege 2017.pdf]]

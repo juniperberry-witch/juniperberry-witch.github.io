@@ -20,4 +20,5 @@ type: Myths
 ## Description
 A new myth or a reconstruction or a retelling of a Deitch regional folk tale of how colors came to be. This mythology is significant to modern Urglaawe perspectives.
 # File
-- [[Oschdre Myth.pdf]]
+![[Oschdre Myth.pdf]]
+Link: [[Oschdre Myth.pdf]]

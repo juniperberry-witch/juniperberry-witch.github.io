@@ -37,4 +37,5 @@ type: Myths
 ## Description
 The spirits lined up and entered the Mill, where they would be split apart, never to return in their present form. Holle returned to the joyous Mannheem, taking Her seat upon the Hexenkopf pillar. Thus, the Bright Half of the Year began and order was restored to Mannheem.
 # File
-- [[Wonnenacht and the Wonnedanz.pdf]]
+![[Wonnenacht and the Wonnedanz.pdf]]
+Link: [[Wonnenacht and the Wonnedanz.pdf]]

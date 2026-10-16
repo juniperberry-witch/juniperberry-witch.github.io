@@ -23,4 +23,5 @@ type: Berchtaslaaf (Progression of Berchta)
 ## Description
 The Berchtaslaaf, or the Progression of Berchta is a feast that includes gruel and fish, which is Berchta's prescribed meal. Urglaawer typically make the fare to consist of herring and oatmeal or dumpling and herring meal.
 # File 
-- [[Berchtaslaaf 2014.pdf]]
+![[Berchtaslaaf 2014.pdf]]
+Link: [[Berchtaslaaf 2014.pdf]]

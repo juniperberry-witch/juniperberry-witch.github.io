@@ -28,4 +28,5 @@ type: Charms
 ## Description
 Der Kannsege (Ceremony of the Corn) and Butzemannsege adapted for use outside of Braucherei guilds.
 # File
-- [[Kannsege adapted.pdf]]
+![[Kannsege adapted.pdf]]
+Link: [[Kannsege adapted.pdf]]

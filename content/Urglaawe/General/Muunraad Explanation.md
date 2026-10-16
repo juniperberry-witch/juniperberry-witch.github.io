@@ -55,4 +55,5 @@ type: General
 ## Description
 Explanation of Muunraad (Lunar Reckoning) and basics of Urglaawe lunar lore.
 # File
-- [[Muunraad Explanation.pdf]]
+![[Muunraad Explanation.pdf]]
+Link: [[Muunraad Explanation.pdf]]

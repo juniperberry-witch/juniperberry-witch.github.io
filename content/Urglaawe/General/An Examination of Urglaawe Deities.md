@@ -79,4 +79,5 @@ type: General
 ## Description
 Urglaawe deities identified within a Deitsch context.
 # File
-- [[An-Examination-of-Urglaawe-Deities.pdf]]
+![[An-Examination-of-Urglaawe-Deities.pdf]]
+Link: [[An-Examination-of-Urglaawe-Deities.pdf]]

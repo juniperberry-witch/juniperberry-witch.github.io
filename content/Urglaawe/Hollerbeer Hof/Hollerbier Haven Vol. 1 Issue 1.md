@@ -65,4 +65,5 @@ chapters:
 ## Description
 Three Sisters Center's Hollerbier Haven: Volume 1 Issue 1. "Welcome to the premier issue of our newsletter!! It is just a small taste of what is to come in future issues. We are continually learning new things about the Braucherei healing arts tradition and about the many aspects and uses of the healing herbs."
 # File
-- [[Hollerbier Haven Vol. 1 Issue 1.pdf]]
+![[Hollerbier Haven Vol. 1 Issue 1.pdf]]
+Link: [[Hollerbier Haven Vol. 1 Issue 1.pdf]]

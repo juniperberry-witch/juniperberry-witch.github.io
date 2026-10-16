@@ -78,4 +78,5 @@ chapters:
 ## Description
 Three Sisters Center's Hollerbier Haven: Volume 2 Issue 2. "At Three Sister's Center, we approach the subject of cultural revival from a very different angle: one of increasing ethnic diversity... Ethnic, cultural, and linguistic diversity makes us stronger as a global community."
 # File
-- [[Hollerbier Haven Vol. 2 Issue 2.pdf]]
+![[Hollerbier Haven Vol. 2 Issue 2.pdf]]
+Link: [[Hollerbier Haven Vol. 2 Issue 2.pdf]]

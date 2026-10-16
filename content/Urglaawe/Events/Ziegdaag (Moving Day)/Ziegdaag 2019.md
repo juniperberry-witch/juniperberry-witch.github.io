@@ -34,4 +34,5 @@ type: Ziegdaag (Moving Day)
 ## Description
 Der Ziegdaag is about change or transformation in all aspects: the need for change, the fear of change, the agents of change, the trickster figures, the sagacious figures who solve problems, escape from traps, or change the world. It is based on the Deitsch "Moving Day" where farmers would move from one family farm to another.
 # File
-- [[Ziegdaag 2019.pdf]]
+![[Ziegdaag 2019.pdf]]
+Link: [[Ziegdaag 2019.pdf]]

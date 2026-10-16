@@ -38,4 +38,5 @@ type: Oschdre (Spring Equinox)
 ## Description
 Oschdre is the propagation of life on a larger scale and the childhood phase of the Life cycle. Stewardship does not mean a lack of progress or an austere lifestyle. It does, though, indicate that progress must not be reckless and that resources must not be squandered in order to achieve immediate goals. The most effective way of making change is to lead by example. Be conscious of the world around you. Take care of your land. Treat the life around you (including humans!) with respect.
 # File
-- [[Oschdre 2019.pdf]]
+![[Oschdre 2019.pdf]]
+Link: [[Oschdre 2019.pdf]]

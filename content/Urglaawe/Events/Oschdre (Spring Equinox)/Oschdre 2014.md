@@ -29,4 +29,5 @@ type: Oschdre (Spring Equinox)
 ## Description
 Oschdre is the propagation of life on a larger scale and the childhood phase of the Life cycle.
 # File
-- [[Oschdre 2014.pdf]]
+![[Oschdre 2014.pdf]]
+Link: [[Oschdre 2014.pdf]]

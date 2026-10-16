@@ -40,4 +40,5 @@ type: Wonnenacht (May Day)
 ## Description
 Along with Yuul, this is the highest holiday on the Urglaawe calendar. The night of April 30 into May 1 is observance of the return of Holle from the Furious Host (Wild Hunt).
 # File
-- [[Walpurgisnacht 2013.pdf]]
+![[Walpurgisnacht 2013.pdf]]
+Link: [[Walpurgisnacht 2013.pdf]]

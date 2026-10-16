@@ -36,7 +36,7 @@ topics:
   - Mead
   - Summer Solstice
 month: Wonnet (May)
-year: 200
+year: 2008
 bookmarked: true
 description: "Three Sisters Center's Hollerbier Haven: Volume 2 Issue 1. \"With the first of May we see the warmth of summer approaching quickly and are preparing to put our many plants into the soil of our gardens. Mother Holle must return to the soil for these plants to grow strong and bear fruit.\""
 type: Three Sisters Center's Hollerbier Haven
@@ -53,6 +53,7 @@ chapters:
   - Challenges for a New Generation of Deitsch
   - Mindfulness at Sonnenwenden
   - Monday is Washday
+  - Events and Registration
 ---
 ## Deities and Spirits
 - Holle
@@ -91,4 +92,5 @@ chapters:
 ## Description
 Three Sisters Center's Hollerbier Haven: Volume 2 Issue 1. "With the first of May we see the warmth of summer approaching quickly and are preparing to put our many plants into the soil of our gardens. Mother Holle must return to the soil for these plants to grow strong and bear fruit."
 # File
-- [[Hollerbier Haven Vol. 2 Issue 1.pdf]]
+![[Hollerbier Haven Vol. 2 Issue 1.pdf]]
+Link: [[Hollerbier Haven Vol. 2 Issue 1.pdf]]

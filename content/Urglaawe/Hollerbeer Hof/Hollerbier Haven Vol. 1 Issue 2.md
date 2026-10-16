@@ -86,4 +86,5 @@ chapters:
 ## Description
 Three Sisters Center's Hollerbier Haven: Volume 1 Issue 2. "The problems facing humanity are great in our time, in order to see a tomorrow that is as beautiful as today we must all pull our share. The sacred promise is to all of earth: its plants, its animals, and its people. Let's begin to be good ancestors, give thanks, and make sacred our work."
 # File
-- [[Hollerbier Haven Vol. 1 Issue 2.pdf]]
+![[Hollerbier Haven Vol. 1 Issue 2.pdf]]
+Link: [[Hollerbier Haven Vol. 1 Issue 2.pdf]]

@@ -28,4 +28,5 @@ type: Feast of Frey (New Year's Day)
 ## Description
 The Twelfth Day of Yule is January 1, or New Year's Day. Going back farther in time than anyone can seem to remember, the traditional meal on New Year’s Day consists of pork and sauerkraut, both of which are sacred to Frey, to bring about success and prosperity in the New Year.
 # File
-- [[Luulfescht - Freyfescht 2016.pdf]]
+![[Luulfescht - Freyfescht 2016.pdf]]
+Link: [[Luulfescht - Freyfescht 2016.pdf]]

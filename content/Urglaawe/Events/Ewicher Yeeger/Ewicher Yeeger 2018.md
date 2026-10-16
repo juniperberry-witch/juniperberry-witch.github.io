@@ -41,4 +41,5 @@ type: Ewicher Yeeger
 ## Description
 We take a moment at this time of Ewicher Yeeger to understand our mortality, to consider how to make the most of the current life we have, and to ponder the prospects for a better future for humanity. We honor the god who helps us to prepare for and to confront the reality of death even while celebrating the life we have.
 # File
-- [[Ewicher Yeeger 2018.pdf]]
+![[Ewicher Yeeger 2018.pdf]]
+Link: [[Ewicher Yeeger 2018.pdf]]

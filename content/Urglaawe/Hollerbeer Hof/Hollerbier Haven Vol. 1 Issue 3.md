@@ -67,4 +67,5 @@ chapters:
 ## Description
 Three Sisters Center's Hollerbier Haven: Volume 1 Issue 2. "As the year draws to a close, it is traditionally time to look back and reflect on all we have learned and experienced in the past twelve months. Equally important, we celebrate "All Souls Day" as the time to remember those teachers and loved ones who have passed..."
 # File
-- [[Hollerbier Haven Vol. 1 Issue 3.pdf]]
+![[Hollerbier Haven Vol. 1 Issue 3.pdf]]
+Link: [[Hollerbier Haven Vol. 1 Issue 3.pdf]]

@@ -34,4 +34,5 @@ type: Allelieweziel (Halloween)
 ## Description 
 The observance of Allelieweziel represents the transition from the light half of the spiritual year to the dark half. Holle's departure on the Furious Host (Wild Hunt) is reflected in the death of the fertility of the soil. Allelieweziel is the death phase of the life-death-rebirth cycle.
 # File
-- [[Allelieweziel 2014.pdf]]
+![[Allelieweziel 2014.pdf]]
+Link: [[Allelieweziel 2014.pdf]]

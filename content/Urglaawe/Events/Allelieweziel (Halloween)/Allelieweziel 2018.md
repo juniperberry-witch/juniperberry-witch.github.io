@@ -42,4 +42,5 @@ type: Allelieweziel (Halloween)
 ## Description
 We are now entering the Dunkelheft, or the Dark Half of the year. It begins with the recognition of the death phase of the life cycle. At Allelieweziel we are encouraged to recognize our mortality so that we can better appreciate our individual uniqueness. Life is precious, and each of us has a place in our community and our society.
 # File
-- [[Allelieweziel 2018.pdf]]
+![[Allelieweziel 2018.pdf]]
+Link: [[Allelieweziel 2018.pdf]]

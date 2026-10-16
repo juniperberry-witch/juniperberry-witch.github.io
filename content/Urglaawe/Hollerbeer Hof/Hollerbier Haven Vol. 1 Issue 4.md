@@ -72,4 +72,5 @@ chapters:
 ## Description
 Three Sisters Center's Hollerbier Haven: Volume 1 Issue 4. "With Groundhog Day we are reminded that the winter is waning and spring is on its way. It's time to lift our minds up from our winter hibernation, and return to the green world of the coming spring with the teachings we gained in the dark time of the year."
 # File
-- [[Hollerbier Haven Vol. 1 Issue 4.pdf]]
+![[Hollerbier Haven Vol. 1 Issue 4.pdf]]
+Link: [[Hollerbier Haven Vol. 1 Issue 4.pdf]]

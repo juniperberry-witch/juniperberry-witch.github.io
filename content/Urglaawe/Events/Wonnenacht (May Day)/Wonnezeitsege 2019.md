@@ -39,4 +39,5 @@ type: Wonnenacht (May Day)
 ## Description
 Along with Yuul, this is the highest holiday on the Urglaawe calendar. The night of April 30 into May 1 is observance of the return of Holle from the Furious Host (Wild Hunt). Experience the joy of life, including the joy of planting new life in the ground. Make the planting a spiritual, loving event. Revel in friends, family, kindred, hobbies, and things you enjoy.
 # File
-- [[Wonnezeitsege 2019.pdf]]
+![[Wonnezeitsege 2019.pdf]]
+Link: [[Wonnezeitsege 2019.pdf]]

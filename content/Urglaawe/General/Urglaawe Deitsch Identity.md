@@ -33,4 +33,5 @@ type: General
 ## Description
 As is the case with most Heathen traditions, Urglaawe has no stringent dogma, though there are core principles that we share that draw us together. Instead of a congregation, we have a Sippschaft, which is essentially a group of people who share the same faith working to build a kindred together.
 # File
-- [[Urglaawe Deitsch Identity.pdf]]
+![[Urglaawe Deitsch Identity.pdf]]
+Link: [[Urglaawe Deitsch Identity.pdf]]

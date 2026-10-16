@@ -65,4 +65,5 @@ chapters:
 ## Description
 Three Sisters Center's Hollerbier Haven: Volume 2 Issue 3. "Every toilsome aspect of life can be looked at as an obstacle, a challenge, or an opportunity for growth towards wholeness; all we must do is choose to walk the path of intention."
 # File
-- [[Hollerbier Haven Vol. 2 Issue 3.pdf]]
+![[Hollerbier Haven Vol. 2 Issue 3.pdf]]
+Link: [[Hollerbier Haven Vol. 2 Issue 3.pdf]]
